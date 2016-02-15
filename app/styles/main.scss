@@ -35,9 +35,12 @@ body {
   }
 
   .content{
-    background-color: #414042;
     padding: 100px;
     color: white;
+    background-image: url(/images/Fireworks_Website.jpg);
+    background-size: cover;
+    background-position: center;
+
 
     h1 {
       font-size: 45px;
@@ -62,6 +65,7 @@ body {
 
     a {
     background-color: #fafafa;
+    background-image: url(/images/Swiftly_MobileApp.jpg);
     border: 1px #F1F1F2 solid;
     padding: 80px;
     border-radius: 4px;
